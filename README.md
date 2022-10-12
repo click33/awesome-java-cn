@@ -4,6 +4,11 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
+<a class="case-btn" target="_blank"
+	href="https://gitee.com/dromara/sa-token/blob/master/sa-token-demo/sa-token-demo-case/src/main/java/com/pj/cases/LoginAuthController.java">
+	本章代码示例：Sa-Token 登录认证
+</a>
+
 * * *
 
 ### 我们要做什么？
